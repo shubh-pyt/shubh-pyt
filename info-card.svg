@@ -34,7 +34,7 @@ viewBox="0 0 520 300">
 <text x="180" y="140"
       font-family="monospace"
       font-size="17"
-      fill="#ffffff">Python • C • Data Structures</text>
+      fill="#ffffff">Python • C • Git • GitHub</text>
 
 <text x="30" y="180"
       font-family="monospace"
@@ -44,7 +44,7 @@ viewBox="0 0 520 300">
 <text x="180" y="180"
       font-family="monospace"
       font-size="17"
-      fill="#ffffff">AI / ML</text>
+      fill="#ffffff">Software Development • AI/ML</text>
 
 <text x="30" y="220"
       font-family="monospace"
@@ -54,7 +54,7 @@ viewBox="0 0 520 300">
 <text x="180" y="220"
       font-family="monospace"
       font-size="17"
-      fill="#ffffff">Hackathons</text>
+      fill="#ffffff">Hackathons • Personal Projects</text>
 
 <text x="30" y="260"
       font-family="monospace"
@@ -64,6 +64,6 @@ viewBox="0 0 520 300">
 <text x="180" y="260"
       font-family="monospace"
       font-size="17"
-      fill="#ffffff">DSA • Full Stack</text>
+      fill="#ffffff">DSA • Web Development</text>
 
 </svg>
